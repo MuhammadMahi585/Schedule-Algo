@@ -1,0 +1,7 @@
+# ProcessID  ArrivalTime  Priority  CPUBurstTime
+1            0            1         5
+2            2            1         3
+3            1            1         9
+4            3            1         6
+5            4            1         6
+6            5            1         2
